@@ -6,5 +6,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Terminal.hpp" />
+    <ClInclude Include="String.hpp" />
   </ItemGroup>
 </Project>

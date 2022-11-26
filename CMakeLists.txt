@@ -8,4 +8,5 @@ add_executable(cme
     src/CME/main.cpp
     src/CME/Terminal.hpp
     src/CME/Terminal.cpp
+    src/CME/String.hpp
 )
