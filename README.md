@@ -1,3 +1,3 @@
-# Editor
+# CodeMouseEditor
 
 - My first text editor.
