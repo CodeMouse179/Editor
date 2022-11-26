@@ -1,3 +1,3 @@
 # Editor
 
-My first text editor.
+- My first text editor.

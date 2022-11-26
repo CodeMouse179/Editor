@@ -1,6 +1,5 @@
 ﻿#include "Terminal.hpp"
 
-int main()
+namespace cme
 {
-    return 0;
 }
