@@ -1,6 +1,6 @@
 # CodeMouseEditor
 
-- My first text editor.
+- My first text editor(The first text editor I created).
 
 Modern Text Editor for Windows Terminal(1.15 and above)
 
