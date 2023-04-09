@@ -141,10 +141,15 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Terminal.cpp" />
+    <ClCompile Include="WindowsConsole.cpp" />
+    <ClCompile Include="WindowsConsoleIO.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Singleton.hpp" />
     <ClInclude Include="String.hpp" />
     <ClInclude Include="Terminal.hpp" />
+    <ClInclude Include="WindowsConsole.hpp" />
+    <ClInclude Include="WindowsConsoleIO.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

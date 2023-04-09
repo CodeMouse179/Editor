@@ -3,9 +3,14 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Terminal.cpp" />
+    <ClCompile Include="WindowsConsole.cpp" />
+    <ClCompile Include="WindowsConsoleIO.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Terminal.hpp" />
     <ClInclude Include="String.hpp" />
+    <ClInclude Include="WindowsConsole.hpp" />
+    <ClInclude Include="Singleton.hpp" />
+    <ClInclude Include="WindowsConsoleIO.hpp" />
   </ItemGroup>
 </Project>
