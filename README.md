@@ -1,9 +1,11 @@
-# CodeMouseEditor
+# Editor
 
-- My first text editor(The first text editor I created).
+Editor is a terminal-based Modern Text Editor.
 
-Modern Text Editor for Windows Terminal(1.15 and above)
+## Information
 
-Platform : Windows(Windows 11 recommended)
+License : MIT
 
-C++ Minimum required version : C++ 11
+Platform : Windows, Linux, macOS
+
+C++ Required Version : C++ 20

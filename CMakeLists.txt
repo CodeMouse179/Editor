@@ -1,12 +1,9 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.26)
 
-project(CodeMouseEditor)
+set(CMAKE_CXX_STANDARD 20)
 
-set(CMAKE_CXX_STANDARD 11)
+project(Editor)
 
-add_executable(cme
-    src/CME/main.cpp
-    src/CME/Terminal.hpp
-    src/CME/Terminal.cpp
-    src/CME/String.hpp
+add_executable(e
+    src/main.cpp
 )
