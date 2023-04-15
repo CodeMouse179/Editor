@@ -1,8 +1,7 @@
-#define SYSTEM_STRING_CONSOLE
-#include "String.hpp"
-using namespace System;
+#include "Editor.hpp"
 
-int main()
+int main(int argc, char** argv)
 {
+    CodeMouse::Editor editor;
     return 0;
 }
