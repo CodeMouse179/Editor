@@ -6,4 +6,5 @@ project(Editor)
 
 add_executable(e
     src/main.cpp
+    src/String.hpp
 )
